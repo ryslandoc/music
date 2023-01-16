@@ -1,0 +1,28 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #222222;
+}
+
+.wrapper-container {
+  max-width: 1142px;
+  padding: 0 15px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+main {
+  display: flex;
+  flex-flow: column;
+  gap: 240px;
+}
+
+.main-title {
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 44px;
+  color: #222222;
+  padding-bottom: 60px;
+}
